@@ -1,0 +1,96 @@
+10/2/2026 6:20:51 AM: Starting server version 1.1.1-dev with supported client version 0.5.28
+10/2/2026 6:20:51 AM: Logs are enabled
+10/2/2026 6:20:51 AM: Connecting to MongoDB...
+10/2/2026 6:20:52 AM: Connected to MongoDB database
+10/2/2026 6:20:52 AM: Loading TableCfg resources
+10/2/2026 6:20:52 AM: Loading InteractiveData resources
+10/2/2026 6:20:52 AM: Loaded 202 InteractiveData
+10/2/2026 6:20:52 AM: Loading LevelData resources
+10/2/2026 6:20:53 AM: Loaded 73 LevelData
+10/2/2026 6:20:53 AM: Server listening on 127.0.0.1:30000
+10/2/2026 6:20:53 AM: Dispatch server started on 127.0.0.1:5000
+10/2/2026 6:22:13 AM: Requested 127.0.0.1:56643
+10/2/2026 6:22:14 AM: Requested /api/remote_config/get_remote_config/1003/prod-cbt/default/default/network_config
+10/2/2026 6:22:14 AM: Sent /api/remote_config/get_remote_config/1003/prod-cbt/default/default/network_config status: 200
+10/2/2026 6:22:16 AM: Requested 127.0.0.1:56649
+10/2/2026 6:22:16 AM: Requested /api/game/get_latest?appcode=uXUuLlNbIYmMMTlN&channel=6&version=0.5.28
+10/2/2026 6:22:16 AM: Sent /api/game/get_latest?appcode=uXUuLlNbIYmMMTlN&channel=6&version=0.5.28 status: 200
+10/2/2026 6:22:18 AM: Requested 127.0.0.1:56653
+10/2/2026 6:22:18 AM: Requested /api/remote_config/get_remote_config/1003/prod-cbt/default/Windows/game_config
+10/2/2026 6:22:18 AM: Sent /api/remote_config/get_remote_config/1003/prod-cbt/default/Windows/game_config status: 200
+10/2/2026 6:22:21 AM: Requested 127.0.0.1:56663
+10/2/2026 6:22:21 AM: Requested /app/v1/config?appCode=2fe67ec91610377d&platform=2
+10/2/2026 6:22:21 AM: Sent /app/v1/config?appCode=2fe67ec91610377d&platform=2 status: 200
+10/2/2026 6:24:53 AM: List of possible commands: 
+10/2/2026 6:24:53 AM: /tp - Teleports player (Require Target: True)
+10/2/2026 6:24:53 AM: /unlockall - Unlock all systems (Require Target: True)
+10/2/2026 6:24:53 AM: /spawn - Spawn cmd test (Require Target: True)
+10/2/2026 6:24:53 AM: /players - list of connected players (Require Target: False)
+10/2/2026 6:24:53 AM: /help - Show list of commands (Require Target: False)
+10/2/2026 6:24:53 AM: /scene - Change scene (Require Target: True)
+10/2/2026 6:24:53 AM: /nickname - Changes nickname (Require Target: True)
+10/2/2026 6:24:53 AM: /clear - clears the console (Require Target: False)
+10/2/2026 6:24:53 AM: /idlist - List of all ids (Require Target: False)
+10/2/2026 6:24:53 AM: /remove - Removes character (Require Target: True)
+10/2/2026 6:24:53 AM: /account - account command (Require Target: False)
+10/2/2026 6:24:53 AM: /heal - Revives/Heals your team characters (Require Target: True)
+10/2/2026 6:24:53 AM: /add - Adds items, weapons or characters (Require Target: True)
+10/2/2026 6:24:53 AM: /level - Update character/item level (Require Target: True)
+10/2/2026 6:24:53 AM: /kick - kick target (Require Target: True)
+10/2/2026 6:24:53 AM: /charinfo - Information about characters (Require Target: True)
+10/2/2026 6:24:53 AM: /target - Set a target uid (Require Target: False)
+10/2/2026 6:25:22 AM: Command not found
+10/2/2026 6:25:29 AM: Command not found
+10/2/2026 6:25:42 AM: Command not found
+10/2/2026 6:26:50 AM: Account with username: test created with Account UID: 147595563
+10/2/2026 6:27:13 AM: Account with username: Loser234Gaming created with Account UID: 845444278
+10/2/2026 6:27:57 AM: Requested 127.0.0.1:52915
+10/2/2026 6:27:57 AM: Requested /user/auth/v1/token_by_email_password
+10/2/2026 6:27:57 AM: Sent /user/auth/v1/token_by_email_password status: 200
+10/2/2026 6:28:00 AM: Requested 127.0.0.1:52919
+10/2/2026 6:28:00 AM: Requested /user/info/v1/basic?token=pd7gl9oyFiNb8cOiIkDhhK
+10/2/2026 6:28:00 AM: Sent /user/info/v1/basic?token=pd7gl9oyFiNb8cOiIkDhhK status: 200
+10/2/2026 6:28:02 AM: Requested 127.0.0.1:52926
+10/2/2026 6:28:02 AM: Requested /user/oauth2/v2/grant
+10/2/2026 6:28:02 AM: Sent /user/oauth2/v2/grant status: 200
+10/2/2026 6:28:05 AM: Requested 127.0.0.1:52933
+10/2/2026 6:28:05 AM: Requested /u8/user/auth/v2/token_by_channel_token
+10/2/2026 6:28:05 AM: Sent /u8/user/auth/v2/token_by_channel_token status: 200
+10/2/2026 6:28:08 AM: Requested 127.0.0.1:52940
+10/2/2026 6:28:08 AM: Requested /game/user/v1/query_zone_whitelist?token=A9aZ3YoodLzeRUbHguGGznPc5ZSjvRe4aQqdjSqw5tH6KUQ8TZrkg9brOpS7PyvErfmUfPXYyaJmEgJL0Pr9CjKpQaHsHAvOxVBUwSgcMVjIlOPX3zRYlIzGswdg7bfHLjXahikcQovRG9eENM3UjRahMORMeL88y6imvrVJIf8muIVAnbWAISpvbuSXMxJY
+10/2/2026 6:28:08 AM: Sent /game/user/v1/query_zone_whitelist?token=A9aZ3YoodLzeRUbHguGGznPc5ZSjvRe4aQqdjSqw5tH6KUQ8TZrkg9brOpS7PyvErfmUfPXYyaJmEgJL0Pr9CjKpQaHsHAvOxVBUwSgcMVjIlOPX3zRYlIzGswdg7bfHLjXahikcQovRG9eENM3UjRahMORMeL88y6imvrVJIf8muIVAnbWAISpvbuSXMxJY status: 200
+10/2/2026 6:28:15 AM: Requested 127.0.0.1:52947
+10/2/2026 6:28:15 AM: Requested /bulletin/info?topicCid=7769&type=1&lang=en-us&platform=Windows&server=EUAndUS
+10/2/2026 6:28:15 AM: Sent /bulletin/info?topicCid=7769&type=1&lang=en-us&platform=Windows&server=EUAndUS status: 200
+10/2/2026 6:28:33 AM: Requested 127.0.0.1:52956
+10/2/2026 6:28:33 AM: Requested /bulletin/info?topicCid=7769&type=1&lang=en-us&platform=Windows&server=EUAndUS
+10/2/2026 6:28:33 AM: Sent /bulletin/info?topicCid=7769&type=1&lang=en-us&platform=Windows&server=EUAndUS status: 200
+10/2/2026 6:29:29 AM: Requested 127.0.0.1:52988
+10/2/2026 6:29:29 AM: Requested /api/game/get_latest?appcode=uXUuLlNbIYmMMTlN&channel=6&version=0.5.28
+10/2/2026 6:29:29 AM: Sent /api/game/get_latest?appcode=uXUuLlNbIYmMMTlN&channel=6&version=0.5.28 status: 200
+10/2/2026 6:29:33 AM: Requested 127.0.0.1:52992
+10/2/2026 6:29:33 AM: Requested /u8/user/auth/v2/grant
+10/2/2026 6:29:33 AM: Sent /u8/user/auth/v2/grant status: 200
+10/2/2026 6:29:35 AM: Requested 127.0.0.1:52996
+10/2/2026 6:29:35 AM: Requested /u8/user/auth/v2/grant
+10/2/2026 6:29:35 AM: Sent /u8/user/auth/v2/grant status: 200
+10/2/2026 6:29:38 AM: Requested 127.0.0.1:53004
+10/2/2026 6:29:38 AM: Requested /api/remote_config/get_remote_config/1003/prod-cbt/default/default/server_config_EUAndUS
+10/2/2026 6:29:38 AM: Sent /api/remote_config/get_remote_config/1003/prod-cbt/default/default/server_config_EUAndUS status: 200
+10/2/2026 6:29:38 AM: Connected new client: 1
+10/2/2026 6:29:41 AM: Requested 127.0.0.1:53017
+10/2/2026 6:29:41 AM: Requested /bulletin/info?topicCid=7769&type=1&lang=en-us&platform=Windows&server=EUAndUS
+10/2/2026 6:29:41 AM: Sent /bulletin/info?topicCid=7769&type=1&lang=en-us&platform=Windows&server=EUAndUS status: 200
+10/2/2026 6:29:41 AM: Requested 127.0.0.1:53018
+10/2/2026 6:29:41 AM: Requested /u8/pay/getAllProductList
+10/2/2026 6:29:41 AM: Sent /u8/pay/getAllProductList status: 200
+10/2/2026 6:29:47 AM: Cannot find Waypoint entity with ID 0
+10/2/2026 6:29:47 AM: CsSceneSetSafeZone:{ "inZone": true }
+10/2/2026 6:29:48 AM: Unsupported BattleActionOperateType.BattleOpSwitchMode
+10/2/2026 6:29:48 AM: Unsupported BattleActionOperateType.BattleOpSwitchMode
+10/2/2026 6:29:48 AM: EntityValueModify called: { "entityInstId": "2", "sceneNumId": 98, "value": { "hp": 2071.741680803863, "ultimatesp": 100 }, "source": 1 }
+10/2/2026 6:29:48 AM: EntityValueModify called: { "entityInstId": "10000000000001", "sceneNumId": 98, "value": { "hp": 2071.741680803863, "ultimatesp": 100 }, "source": 1 }
+10/2/2026 6:41:26 AM: Requested 127.0.0.1:53307
+10/2/2026 6:41:26 AM: Requested /bulletin/info?topicCid=7769&type=0&lang=en-us&platform=Windows&server=EUAndUS
+10/2/2026 6:41:26 AM: Sent /bulletin/info?topicCid=7769&type=0&lang=en-us&platform=Windows&server=EUAndUS status: 200
+10/2/2026 6:41:48 AM: Endministrator Disconnected

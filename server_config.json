@@ -1,0 +1,27 @@
+{
+  "mongoDatabase": {
+    "uri": "mongodb://localhost:27017",
+    "collection": "ArkFieldPS"
+  },
+  "dispatchServer": {
+    "bindAddress": "127.0.0.1",
+    "bindPort": 5000,
+    "accessAddress": "127.0.0.1",
+    "accessPort": 5000,
+    "emailFormat": "@endfield.ps"
+  },
+  "gameServer": {
+    "bindAddress": "127.0.0.1",
+    "bindPort": 30000,
+    "accessAddress": "127.0.0.1",
+    "accessPort": 30000
+  },
+  "serverOptions": {
+    "defaultSceneNumId": 98,
+    "maxPlayers": 20
+  },
+  "logOptions": {
+    "packets": false,
+    "debugPrint": false
+  }
+}
